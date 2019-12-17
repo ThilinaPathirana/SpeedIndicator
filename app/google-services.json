@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "868693996029",
+    "firebase_url": "https://childbicycletrackingsystem.firebaseio.com",
+    "project_id": "childbicycletrackingsystem",
+    "storage_bucket": "childbicycletrackingsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868693996029:android:0a71fbc4d486d15a",
+        "android_client_info": {
+          "package_name": "com.blogspot.gihanmora.childbicycletrackingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868693996029-5hnh4hmrh3lg2gvoc7p7psc86v3ofonf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blogspot.gihanmora.childbicycletrackingsystem",
+            "certificate_hash": "689b692edebad496505f1facc5c511cdf57dd36d"
+          }
+        },
+        {
+          "client_id": "868693996029-mnvibvrfv7p60qhg6omfgub37qu08bmm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blogspot.gihanmora.childbicycletrackingsystem",
+            "certificate_hash": "24084be8549a4bed9514f7eb4bd4510f0f239c0d"
+          }
+        },
+        {
+          "client_id": "868693996029-e0v94lh0adc8b9sm97f64jvrc19uvm5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGjEPPPomR_vcX2JoGCEWuyZ-0SamI04A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868693996029-e0v94lh0adc8b9sm97f64jvrc19uvm5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868693996029:android:4deef3fbd3fe5be13d6994",
+        "android_client_info": {
+          "package_name": "com.example.speed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868693996029-3vprjni6et4tarmajdrjtbhnqpourdfq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.speed",
+            "certificate_hash": "e47b645e8af2d353c5acc4efe8df76c4a377c59a"
+          }
+        },
+        {
+          "client_id": "868693996029-e0v94lh0adc8b9sm97f64jvrc19uvm5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGjEPPPomR_vcX2JoGCEWuyZ-0SamI04A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868693996029-e0v94lh0adc8b9sm97f64jvrc19uvm5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
